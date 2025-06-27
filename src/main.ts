@@ -1,4 +1,6 @@
-import './assets/main.css'
+import '@/assets/main.scss'
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+import * as bootstrap from 'bootstrap'
 
 import { createApp } from 'vue'
 import { createPinia } from 'pinia'

@@ -1,9 +1,11 @@
-<script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
+<script setup lang="ts"></script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <nav class="navbar bg-success">
+    <div class="container-fluid">
+      <a class="navbar-brand">
+        <i class="bi bi-cash-coin text-white" />
+      </a>
+    </div>
+  </nav>
 </template>

@@ -1,3 +1,6 @@
 @import 'bootstrap/scss/bootstrap';
 $bootstrap-icons-font-dir: 'bootstrap-icons/font/fonts';
 @import 'bootstrap-icons/font/bootstrap-icons';
+@import url('datatables.net-bs5');
+@import url('datatables.net-fixedheader-bs5');
+@import url('datatables.net-responsive-bs5');
